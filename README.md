@@ -55,7 +55,7 @@ REST API for E-Commerce platform with admin panel integration.
 Clone repo
 
 ```
-git clone https://github.com/thomasmiller108120/E-commerce-laravel.git
+git clone https://github.com/grandfar/E-commerce-laravel.git
 ```
 
 Install Composer
